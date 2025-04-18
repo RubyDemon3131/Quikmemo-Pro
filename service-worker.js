@@ -26,7 +26,7 @@ const WB_MANIFEST = self.__WB_MANIFEST;
 // Precache fallback route and image
 WB_MANIFEST.push({
   url: "/offline",
-  revision: "1234567890",
+  revision: "111231",
 });
 precacheAndRoute(WB_MANIFEST);
 
